@@ -16,6 +16,7 @@
 ## ✨ Tech Stack ✨ 
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <br/>
@@ -39,6 +40,16 @@
 <br/>
 <br/>
 </div>
+
+
+## 🔥 Studying 🔥 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+<br/>
+<br/>
+</div>
+
 
 ## 🧑🏻‍💻 Activity
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSH0905&theme=radical) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSH0905&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
