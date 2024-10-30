@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/JSH0905/JSH0905/main/깃허브 메인 헤더.gif" />
+  <img width="800px" src = "https://github.com/JSH0905/JSH0905/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EB%A9%94%EC%9D%B8%20%ED%97%A4%EB%8D%94.gif" >
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjdgns905" />
 </div>
 <br/>
