@@ -40,5 +40,5 @@
 </div>
 
 ## 🧑🏻‍💻 Activity
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSH0905&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JSH0905&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSH0905&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
