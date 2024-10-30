@@ -1,6 +1,12 @@
-## Hi there 👋
+![깃허브 메인 헤더](https://github.com/user-attachments/assets/b1ab037f-1a82-4b52-8c57-6a7da2529de9)
 
-![제목을-입력해주세요_ (2)](https://github.com/user-attachments/assets/cbee98da-0c27-4868-a799-81b1b245f5c7)
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
 
 <!--
