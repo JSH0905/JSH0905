@@ -1,5 +1,7 @@
-![깃허브 메인 헤더](https://github.com/user-attachments/assets/b1ab037f-1a82-4b52-8c57-6a7da2529de9)
-
+<div align="center">
+  <img width="800px" src="https://github.com/JSH0905/JSH0905/깃허브 메인 헤더.gif" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjdgns905" />
+</div>
 <br/>
 <br/>
 
