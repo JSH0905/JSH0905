@@ -7,7 +7,8 @@
 ## 📚 Project
 |  기간  |  프로젝트명  |  설명  |  역할  |  형태  |
 |-------|-----------|-------|-------|-------|
-| <p align="center"> 2024.09 ~ 진행중 </p> | <p align="center"> E^2cho </p> | 환경 친화적으로 만들어진 무드등 제작 및 판매 서비스 | <p align="center">  벡엔드 개발  </p> | <p align="center"> 팀 프로젝트 </p> |
+| <p align="center"> 2024.12 ~ 진행중 </p> | <p align="center"> Turtle-Minecraft </p> | 자체 마인크래프트 서버의 유저들을 위한 웹서비스 | <p align="center">  풀스택 개발  </p> | <p align="center"> 팀 프로젝트 </p> |
+| <p align="center"> 2024.09 ~ 2024.11 </p> | <p align="center"> E^2cho </p> | 환경 친화적으로 만들어진 무드등 제작 및 판매 서비스 | <p align="center">  벡엔드 개발  </p> | <p align="center"> 팀 프로젝트 </p> |
 | <p align="center"> 2024.07 ~ 2024.09 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center">  백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
 | <p align="center"> 2023.10 ~ 2023.12 </p> | <p align="center"> 오늘 뭐 먹노? </p> | 경주시 맛집, 카페 추천 서비스 | <p align="center">  팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 
