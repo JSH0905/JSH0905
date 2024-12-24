@@ -11,6 +11,16 @@
 | <p align="center"> 2024.07 ~ 2024.09 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center">  백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
 | <p align="center"> 2023.10 ~ 2023.12 </p> | <p align="center"> 오늘 뭐 먹노? </p> | 경주시 맛집, 카페 추천 서비스 | <p align="center">  팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 
+## 🏆 Awards
+| 대회명 | 기관 | 작품 설명 | 수상 내용 | 수상일 |
+|----------|---------|-----|-----|-----|
+| <p align="center"> 2024 경주 지역문제 해결 해커톤 </p> | <p align="center"> 동국대학교 WISE LINC 3.0 사업단 </p> | 경주시 정책 소통 플랫폼 | <p align="center"> 대상 | <p align="center"> 2024.12.01 </p> |
+<br/>
+
+## 📰 Article
+https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
+<br/><br/>
+
 
 <br/>
 <br/>
