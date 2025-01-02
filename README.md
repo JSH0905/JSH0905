@@ -57,8 +57,8 @@ https://www.veritas-a.com/news/articleView.html?idxno=534327#google_vignette
 
 ## 🔥 Studying 🔥 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=NextJs&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
 <br/>
 <br/>
 </div>
